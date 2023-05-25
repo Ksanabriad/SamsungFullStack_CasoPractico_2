@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supermercados>
+    <supermercado>
+        <nombre>D1</nombre>
+        <direccion>Floridablanca</direccion>
+        <codigo_postal>04009</codigo_postal>
+        <geolocalizacion>2º10'26.5 E</geolocalizacion>
+        <geolocalizacion>41º24'12.2 N</geolocalizacion>
+        <productos>
+            <nombre>Tomate</nombre>
+            <ofertas>
+                <vigente>true</vigente>
+                <tipo_oferta>20% descuento</tipo_oferta>
+                <vigente_desde>25/05/2023</vigente_desde>
+                <vigente_hasta>30/05/2023</vigente_hasta>
+            </ofertas>
+            <producto_habitual>true</producto_habitual>
+            <unidades>5</unidades>
+            <unidad_medida>Kilos</unidad_medida>
+            <precio>2.4</precio>
+        </productos>
+        <productos>
+            <nombre>Banana</nombre>
+            <ofertas>
+                <vigente>false</vigente>
+            </ofertas>
+            <producto_habitual>true</producto_habitual>
+            <unidades>2</unidades>
+            <unidad_medida>Kilos</unidad_medida>
+            <precio>1.7</precio>
+        </productos>
+        <productos>
+            <nombre>Leche</nombre>
+            <ofertas>
+                <vigente>true</vigente>
+                <tipo_oferta>10% descuento</tipo_oferta>
+                <vigente_desde>25/05/2023</vigente_desde>
+                <vigente_hasta>30/05/2023</vigente_hasta>
+            </ofertas>
+            <producto_habitual>true</producto_habitual>
+            <unidades>10</unidades>
+            <unidad_medida>Litros</unidad_medida>
+            <precio>0.79</precio>
+        </productos>
+    </supermercado>
+    <supermercado>
+        <nombre>JustoYBueno</nombre>
+        <direccion>Lagos II</direccion>
+        <codigo_postal>04756</codigo_postal>
+        <geolocalizacion>5º10'26.5 E</geolocalizacion>
+        <geolocalizacion>41º34'12.9 N</geolocalizacion>
+        <productos>
+            <nombre>Tomate</nombre>
+            <ofertas>
+                <vigente>false</vigente>
+            </ofertas>
+            <producto_habitual>true</producto_habitual>
+            <unidades>5</unidades>
+            <unidad_medida>Kilos</unidad_medida>
+            <precio>2.25</precio>
+        </productos>
+        <productos>
+            <nombre>Banana</nombre>
+            <ofertas>
+                <vigente>true</vigente>
+                <tipo_oferta>5% descuento</tipo_oferta>
+                <vigente_desde>27/05/2023</vigente_desde>
+                <vigente_hasta>29/05/2023</vigente_hasta>
+            </ofertas>
+            <producto_habitual>true</producto_habitual>
+            <unidades>2</unidades>
+            <unidad_medida>Kilos</unidad_medida>
+            <precio>1.7</precio>
+        </productos>
+        <productos>
+            <nombre>Leche</nombre>
+            <ofertas>
+                <vigente>true</vigente>
+                <tipo_oferta>10% descuento</tipo_oferta>
+                <vigente_desde>25/05/2023</vigente_desde>
+                <vigente_hasta>30/05/2023</vigente_hasta>
+            </ofertas>
+            <producto_habitual>true</producto_habitual>
+            <unidades>10</unidades>
+            <unidad_medida>Litros</unidad_medida>
+            <precio>0.88</precio>
+        </productos>
+    </supermercado>
+    <supermercado>
+        <nombre>MasxMenos</nombre>
+        <direccion>Bucarica</direccion>
+        <codigo_postal>08999</codigo_postal>
+        <geolocalizacion>33º10'26.2 E</geolocalizacion>
+        <geolocalizacion>2º34'12.4 N</geolocalizacion>
+        <productos>
+            <nombre>Tomate</nombre>
+            <ofertas>
+                <vigente>false</vigente>
+            </ofertas>
+            <producto_habitual>true</producto_habitual>
+            <unidades>5</unidades>
+            <unidad_medida>Kilos</unidad_medida>
+            <precio>2.09</precio>
+        </productos>
+        <productos>
+            <nombre>Banana</nombre>
+            <ofertas>
+                <vigente>false</vigente>
+            </ofertas>
+            <producto_habitual>true</producto_habitual>
+            <unidades>2</unidades>
+            <unidad_medida>Kilos</unidad_medida>
+            <precio>1.55</precio>
+        </productos>
+        <productos>
+            <nombre>Leche</nombre>
+            <ofertas>
+                <vigente>false</vigente>
+            </ofertas>
+            <producto_habitual>true</producto_habitual>
+            <unidades>10</unidades>
+            <unidad_medida>Litros</unidad_medida>
+            <precio>0.79</precio>
+        </productos>
+    </supermercado>
+</supermercados>

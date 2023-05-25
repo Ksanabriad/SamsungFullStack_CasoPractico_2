@@ -1,0 +1,161 @@
+{
+    "supermercados": [
+        {
+            "supermercado": [
+                {
+                    "nombre": "D1",
+                    "direccion": "Floridablanca",
+                    "codigo_postal": "04009",
+                    "geolocalizacion": [
+                        "2º10'26.5 E",
+                        "41º24'12.2 N"
+                    ],
+                    "productos": [
+                        {
+                            "nombre": "Tomate",
+                            "ofertas": [
+                                {
+                                    "vigente": true,
+                                    "tipo_oferta": "20% descuento",
+                                    "vigente_desde": "25/05/2023",
+                                    "vigente_hasta": "30/05/2023"
+                                }
+                            ],
+                            "producto_habitual": true,
+                            "unidades": 5,
+                            "unidad_medida": "Kilos",
+                            "precio": 2.40
+                        },
+                        {
+                            "nombre": "Banana",
+                            "ofertas": [
+                                {
+                                    "vigente": false
+                                }
+                            ],
+                            "producto_habitual": true,
+                            "unidades": 2,
+                            "unidad_medida": "Kilos",
+                            "precio": 1.70
+                        },
+                        {
+                            "nombre": "Leche",
+                            "ofertas": [
+                                {
+                                    "vigente": true,
+                                    "tipo_oferta": "10% descuento",
+                                    "vigente_desde": "25/05/2023",
+                                    "vigente_hasta": "30/05/2023"
+                                }
+                            ],
+                            "producto_habitual": true,
+                            "unidades": 10,
+                            "unidad_medida": "Litros",
+                            "precio": 0.79
+                        }
+                    ]
+                },
+                {
+                    "nombre": "JustoYBueno",
+                    "direccion": "Lagos II",
+                    "codigo_postal": "04756",
+                    "geolocalizacion": [
+                        "5º10'26.5 E",
+                        "41º34'12.9 N"
+                    ],
+                    "productos": [
+                        {
+                            "nombre": "Tomate",
+                            "ofertas": [
+                                {
+                                    "vigente": false
+                                }
+                            ],
+                            "producto_habitual": true,
+                            "unidades": 5,
+                            "unidad_medida": "Kilos",
+                            "precio": 2.25
+                        },
+                        {
+                            "nombre": "Banana",
+                            "ofertas": [
+                                {
+                                    "vigente": true,
+                                    "tipo_oferta": "5% descuento",
+                                    "vigente_desde": "27/05/2023",
+                                    "vigente_hasta": "29/05/2023"
+                                }
+                            ],
+                            "producto_habitual": true,
+                            "unidades": 2,
+                            "unidad_medida": "Kilos",
+                            "precio": 1.70
+                        },
+                        {
+                            "nombre": "Leche",
+                            "ofertas": [
+                                {
+                                    "vigente": true,
+                                    "tipo_oferta": "10% descuento",
+                                    "vigente_desde": "25/05/2023",
+                                    "vigente_hasta": "30/05/2023"
+                                }
+                            ],
+                            "producto_habitual": true,
+                            "unidades": 10,
+                            "unidad_medida": "Litros",
+                            "precio": 0.88
+                        }
+                    ]
+                },
+                {
+                    "nombre": "MasxMenos",
+                    "direccion": "Bucarica",
+                    "codigo_postal": "08999",
+                    "geolocalizacion": [
+                        "33º10'26.2 E",
+                        "2º34'12.4 N"
+                    ],
+                    "productos": [
+                        {
+                            "nombre": "Tomate",
+                            "ofertas": [
+                                {
+                                    "vigente": false
+                                }
+                            ],
+                            "producto_habitual": true,
+                            "unidades": 5,
+                            "unidad_medida": "Kilos",
+                            "precio": 2.09
+                        },
+                        {
+                            "nombre": "Banana",
+                            "ofertas": [
+                                {
+                                    "vigente": false
+                                }
+                            ],
+                            "producto_habitual": true,
+                            "unidades": 2,
+                            "unidad_medida": "Kilos",
+                            "precio": 1.55
+                        },
+                        {
+                            "nombre": "Leche",
+                            "ofertas": [
+                                {
+                                    "vigente": false
+                                }
+                            ],
+                            "producto_habitual": true,
+                            "unidades": 10,
+                            "unidad_medida": "Litros",
+                            "precio": 0.79
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
